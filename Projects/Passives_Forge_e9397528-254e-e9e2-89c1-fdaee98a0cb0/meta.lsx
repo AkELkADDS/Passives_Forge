@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="e9397528-254e-e9e2-89c1-fdaee98a0cb0"/>
+            <attribute id="Name" type="LSString" value="Passives_Forge"/>
+            <attribute id="UUID" type="LSString" value="971a7b62-29e8-4780-ede7-ea27e802155e"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

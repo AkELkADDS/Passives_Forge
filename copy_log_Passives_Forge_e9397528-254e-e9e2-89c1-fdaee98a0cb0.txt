@@ -1,0 +1,141 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+   Mon 05/19/2025  7:24:41.95 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\meta.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\meta.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0: 1 
+ 
+[LOG] Total files found across all folders: 2 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 to Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[DEBUG] Using destination: Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:24:45 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\
+     Dest : C:\GIT_BG3\MOD_REPOS\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     616	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\meta.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :       616       616         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:24:45 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 to Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[DEBUG] Using destination: Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:24:48 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\
+     Dest : C:\GIT_BG3\MOD_REPOS\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0\meta.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :     2.5 k     2.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:24:48 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Passives_Forge_e9397528-254e-e9e2-89c1-fdaee98a0cb0 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 2 
+[SUMMARY] Total files successfully copied: 4 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
